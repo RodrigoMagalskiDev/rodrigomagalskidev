@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, eu sou Rodrigo Magalski Rubin</h1>
+<h1 align="center">Olá 👋, eu sou Rodrigo Magalski Rubin</h1>
 <h3 align="center">Desenvolvedor mobile | front end</h3>
 
 - ✨ Atualmente estou aprendendo **Flutter, React Native e Java (Android)**
