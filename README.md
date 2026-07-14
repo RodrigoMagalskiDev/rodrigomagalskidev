@@ -1,7 +1,8 @@
-<h1 align="center">Olá, eu sou Rodrigo Magalski Rubin</h1>
-<h3 align="center">Desenvolvedor mobile | full-stack</h3>
+<h1 align="center">Eai, tudo certo? eu sou Rodrigo Magalski Rubin</h1>
+<h2 align="center">Me chamo Rodrigo Magalski Rubin</h2>
+<h3 align="center">Software Engineer</h3>
 
-- ✨ Atualmente trabalho com **Flutter, Delphi, SQL e Java, além de ferramentas de UI/UX design**
+- ✨ Atualmente trabalho com **Flutter, Delphi, SQL e Java**
 
 - 👨‍💻 Você encontra alguns dos meus principais projetos em [https://github.com/RodrigoMagalskiDev/Portfolio](https://github.com/RodrigoMagalskiDev/Portfolio)
 
