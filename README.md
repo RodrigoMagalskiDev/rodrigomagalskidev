@@ -1,4 +1,4 @@
-<h1 align="center">Eai, tudo certo? eu sou Rodrigo Magalski Rubin</h1>
+<h1 align="center">Eai, tudo certo?</h1>
 <h2 align="center">Me chamo Rodrigo Magalski Rubin</h2>
 <h3 align="center">Software Engineer</h3>
 
